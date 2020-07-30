@@ -135,7 +135,7 @@ body, p, h1 {
 .last__block {
     width: 100%;
     max-width: 1188px;
-    margin: 0 auto;
+    margin: 0 auto 18px auto;
     overflow: hidden;
 }
 
