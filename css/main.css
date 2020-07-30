@@ -129,7 +129,6 @@ body, p, h1 {
 .mountain__picture {
     width: 360px;
     padding: 18px;
-    margin-bottom: 20px;
     float: left;
 } 
 
@@ -137,6 +136,7 @@ body, p, h1 {
     width: 100%;
     max-width: 1188px;
     margin: 0 auto;
+    margin-bottom: 20px;
     overflow: hidden;
 }
 
