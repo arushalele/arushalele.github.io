@@ -52,6 +52,7 @@ body, p, h1 {
 
 .travelling__content {
     width: 77%;
+    max-height: 300px;
     position: relative;
     top: 30%;
     left: 10%;
